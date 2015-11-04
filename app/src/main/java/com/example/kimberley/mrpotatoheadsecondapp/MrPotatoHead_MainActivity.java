@@ -72,21 +72,6 @@ public class MrPotatoHead_MainActivity extends AppCompatActivity {
                 break;
         }
     }
-    /*
-    public void checkEars(View view){
-        Ears = (ImageView) findViewById(id.Ears);
-        Ears.setVisibility(View.VISIBLE);
-    }
-
-    public void checkShoes(View view){
-        Shoes = (ImageView) findViewById(id.Shoes);
-        Shoes.setVisibility(Shoes.getVisibility() == View.VISIBLE ? View.INVISIBLE : View.VISIBLE);
-    }
-
-    public void checkHat(View view){
-        Hat = (ImageView) findViewById(id.Hat);
-        Hat.setVisibility(View.VISIBLE);
-    }*/
 
     }
 
